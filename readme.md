@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning web development<br>🎯 Goals: make high school graduation & study medical informatics<br>🎲 Fun fact: I'm a really big Star Wars fan</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning machine learning<br>🎯 Goals: make high school graduation & study medical informatics<br>🎲 Fun fact: I'm a really big Star Wars fan</p>
 
 ###
 
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
