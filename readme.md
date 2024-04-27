@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning machine learning<br>🎯 Goals: make high school graduation & study medical informatics or data science<br>🎲 Fun fact: I'm a really big Star Wars fan</p>
+<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning machine learning<br>🎯 Goals: study medical informatics or data science<br>🎲 Fun fact: I'm a really big Star Wars fan</p>
 
 ###
 
