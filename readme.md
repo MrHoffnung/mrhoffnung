@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">My dream techstack</h2>
+<h2 align="left">My techstack</h2>
 
 ###
 
