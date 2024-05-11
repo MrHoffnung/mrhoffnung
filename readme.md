@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">My techstack</h2>
+<h2 align="left">My dream techstack (not reached yet)</h2>
 
 ###
 
