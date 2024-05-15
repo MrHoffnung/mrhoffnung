@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/power-platform/icon-powerBI.svg" height="40" alt="power bi logo">
 </div>
 
 ###
