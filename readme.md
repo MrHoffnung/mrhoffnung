@@ -20,9 +20,9 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html/html-original.svg" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css/css-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
