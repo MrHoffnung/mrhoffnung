@@ -25,6 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
 
 ###
