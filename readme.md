@@ -20,11 +20,13 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
