@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="seaborn logo"  />
+  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
