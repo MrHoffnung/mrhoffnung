@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180330/zle/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg" height="40" alt="sql logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" height="40" alt="sql logo"  />
   <img width="12" />
 </div>
 
