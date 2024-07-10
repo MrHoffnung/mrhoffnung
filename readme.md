@@ -22,9 +22,15 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="python logo"  />
+  <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="rust logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   
 </div>
