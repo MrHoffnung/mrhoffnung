@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About</h2>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">My techstack</h2>
+<h2 align="left">Techstack</h2>
 
 ###
 
@@ -24,6 +24,7 @@
   <img width="12" />
   <img src="https://miqh.gallerycdn.vsassets.io/extensions/miqh/vscode-language-rust/0.14.0/1536151476041/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="rust logo"  />
   <img width="12" />
+  <img src="https://user-images.githubusercontent.com/9541/97474395-5b9a9b80-194c-11eb-8ada-5fbe23fb37c9.png" height="40" alt="pygame logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
