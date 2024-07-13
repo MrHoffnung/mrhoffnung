@@ -26,10 +26,6 @@
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/9541/97474395-5b9a9b80-194c-11eb-8ada-5fbe23fb37c9.png" height="40" alt="pygame logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
-  <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
