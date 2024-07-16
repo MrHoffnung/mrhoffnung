@@ -14,7 +14,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2008<br>
-  💚 Founder of <a href="https://github.com/adf-tech">@Adfectatio</a>
+  💚 Founder of <a href="https://github.com/adf-tech">@Adfectatio</a><br>
   📚 I'm currently learning JavaScript<br>
   ☄️ Fun fact: I'm a really big Star Wars fan</p>
 
