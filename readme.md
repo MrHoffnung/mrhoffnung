@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2008<br>📚 I'm currently learning data science<br>🎯 Goals: study medical informatics or data science<br>🎲 Fun fact: I'm a really big Star Wars fan</p>
+<p align="left">
+  ✨ Creating bugs since 2008<br>
+  💚 Founder of @Adfectatio<br>
+  📚 I'm currently learning JavaScript<br>
+  ☄️ Fun fact: I'm a really big Star Wars fan</p>
 
 ###
 
