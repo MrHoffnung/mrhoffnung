@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180802/xze/kisspng-flask-by-example-python-web-framework-bottle-lico-softwares-websites-press-services-product-5b634c8e6cd4b6.5508771315332343184458.jpg" height="40" alt="flask logo"  />
+  <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" height="40" alt="flask logo"  />
   <img width="12" />
   
 </div>
@@ -59,4 +59,3 @@
   <img src="https://user-images.githubusercontent.com/9541/97474395-5b9a9b80-194c-11eb-8ada-5fbe23fb37c9.png" height="40" alt="pygame logo"  />
   <img width="12" />
 </div>
-###
