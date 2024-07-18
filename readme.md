@@ -1,61 +1,35 @@
+<h1 align="center">Hi 🗽, I'm Leo</h1>
+<h4 align="center">Data Scientist & Fullstack Developer</h4>
 
-<h1 align="left">Hey 👋 What's up?</h1>
-<h6>Data Scientist & Backend Developer</h6>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhoffnung&label=Profile%20views&color=0e75b6&style=flat" alt="mrhoffnung" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrhoffnung" alt="mrhoffnung" /></a> </p>
 
-<p align="left">My name is Leo and I'm a high school student, from Germany</p>
+- 🔭 I’m currently working on [Daytistics](https://github.com/adf-tech/daytistics)
 
-###
+- 🌱 I’m currently learning **JavaScript, React & Data Science**
 
-<h2 align="left">About</h2>
+- 💚 I’m the Founder of [Adfectatio](https://github.com/adf-tech/)
 
-###
+- 👨‍💻 All of my projects are available at [https://mrhoffnung.github.io/](https://mrhoffnung.github.io/)
 
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **gall.dev@proton.me**
+
+- 📄 Know about my experiences [https://mrhoffnung.github.io/resume.html](https://mrhoffnung.github.io/resume.html)
+
+- 🧪 Fun fact **I love chemics and maths**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  ✨ Creating bugs since 2008<br>
-  💚 Founder of <a href="https://github.com/adf-tech">@Adfectatio</a><br>
-  📚 I'm currently learning JavaScript<br>
-  ☄️ Fun fact: I'm a really big Star Wars fan</p>
+<a href="https://dev.to/mrhoffnung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrhoffnung" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leo gall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo gall" height="30" width="40" /></a>
+<a href="https://kaggle.com/mrhoffnung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mrhoffnung" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<h2 align="left">Skillset</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrhoffnung&show_icons=true&locale=en&layout=compact" alt="mrhoffnung" /></p>
 
-###
-
-<h3>Frontend</h3>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
-
-<h3>Backend</h3>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.buttercms.com/w8lc0UqsQCnPG0Ax6aiM" height="40" alt="flask logo"  />
-  <img width="12" />
-  
-</div>
-<h3>Data Science</h3>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="seaborn logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-</div>
-
-<h3>Games</h3>
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/9541/97474395-5b9a9b80-194c-11eb-8ada-5fbe23fb37c9.png" height="40" alt="pygame logo"  />
-  <img width="12" />
-</div>
