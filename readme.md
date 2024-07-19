@@ -7,8 +7,6 @@
 
 💚 I’m the Founder of [Adfectatio](https://github.com/adf-tech/)
 
-👨‍💻 All of my projects are available at [https://mrhoffnung.github.io/](https://mrhoffnung.github.io/)
-
 💬 Ask me about **Python**
 
 📫 How to reach me **gall.dev@proton.me**
