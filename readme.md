@@ -1,21 +1,21 @@
 <h1 align="center">Hi 🗽, I'm Leo</h1>
 <h4 align="center">A nerd who develops everything from Germany</h4>
 
-- 🔭 I’m currently working on [Daytistics](https://github.com/adf-tech/daytistics)
+🔭 I’m currently working on [Daytistics](https://github.com/adf-tech/daytistics)
 
-- 🌱 I’m currently learning **JavaScript, Vue & Data Science**
+🌱 I’m currently learning **JavaScript, Vue & Data Science**
 
-- 💚 I’m the Founder of [Adfectatio](https://github.com/adf-tech/)
+💚 I’m the Founder of [Adfectatio](https://github.com/adf-tech/)
 
-- 👨‍💻 All of my projects are available at [https://mrhoffnung.github.io/](https://mrhoffnung.github.io/)
+👨‍💻 All of my projects are available at [https://mrhoffnung.github.io/](https://mrhoffnung.github.io/)
 
-- 💬 Ask me about **Python**
+💬 Ask me about **Python**
 
-- 📫 How to reach me **gall.dev@proton.me**
+📫 How to reach me **gall.dev@proton.me**
 
-- 📄 Know about my experiences [https://mrhoffnung.github.io/resume.html](https://mrhoffnung.github.io/resume.html)
+📄 Know about my experiences [https://mrhoffnung.github.io/resume.html](https://mrhoffnung.github.io/resume.html)
 
-- ⚡ Fun fact **I love chemics, maths & star wars**
+⚡ Fun fact **I love chemics, maths & star wars**
 
 
 <h3 align="left">Languages and Tools:</h3>
