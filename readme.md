@@ -13,7 +13,7 @@
 
 
 I'm a gamer 🎮. That's why I code in **PvP**. 
-**PvP** stands for ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white), ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) and ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white).
+**PvP** stands for **P**ython 🐍, **V**ue.js ❇️ and **P**ostgreSQL 🐘.
 
 
 
