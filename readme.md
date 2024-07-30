@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [Daytistics](https://github.com/adf-tech/daytistics)
 
-🌱 I’m currently learning **JavaScript, Vue & Data Science**
+🌱 I'm currently learning **by googling things that interest me**
 
 💚 I’m the Founder of [Adfectatio](https://github.com/adf-tech/)
 
