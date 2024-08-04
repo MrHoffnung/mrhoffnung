@@ -11,7 +11,7 @@
 
 📫 How to reach me **gall.dev@proton.me**
 
-<br><br>
+
 
 I'm using the following technologies...
 - **Web Development**: Django 🔫, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘
