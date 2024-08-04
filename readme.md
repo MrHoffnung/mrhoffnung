@@ -10,8 +10,10 @@
 💬 Ask me about **Python**
 
 📫 How to reach me **gall.dev@proton.me**
-<br>
-I'm using the following technologies...<br>
+
+<br><br>
+
+I'm using the following technologies...
 - **Web Development**: Django 🔫, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘
 - **Data Science**: Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓
 - **Natural Computing**: Interested, but haven't found the time yet...
