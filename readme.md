@@ -12,8 +12,7 @@
 📫 How to reach me **gall.dev@proton.me**
 
 
-I'm a gamer 🎮. That's why I code in **PvP**. 
-**PvP** stands for **P**ython 🐍, **V**ue.js ❇️ and **P**ostgreSQL 🐘.
+I'm using the Django stack (Django 🐍, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘) for Web Development and Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓 for Data Science.
 
 
 
