@@ -14,7 +14,7 @@
 I'm using the following technologies...<br>
 - **Web Development**: Django 🔫, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘
 - **Data Science**: Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓
-- **Natural Computing**: Interested, but haven't found the time yet
+- **Natural Computing**: Interested, but haven't found the time yet...
 
 
 
