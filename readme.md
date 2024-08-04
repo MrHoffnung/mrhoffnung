@@ -12,7 +12,10 @@
 📫 How to reach me **gall.dev@proton.me**
 
 
-I'm using the Django stack (Django 🐍, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘) for Web Development and Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓 for Data Science.
+
+I'm using the following technologies...<br>
+- **Web Development**: Django 🐍, Alpine.js 🏔️, HTMX 📃 & PostgreSQL 🐘
+- **Data Science**: Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓
 
 
 
