@@ -18,5 +18,6 @@ I'm using the following technologies...
 - **Data Science**: Python 🐍 with Pandas 🐼, NumPy 🔢, Seaborn 📈 & Scikit-Learn 👨‍🎓
 - **Natural Computing**: Interested, but haven't found the time yet...
 
+- **I have also worked with**: 
 
 
