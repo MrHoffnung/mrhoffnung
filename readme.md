@@ -9,4 +9,4 @@
 
 📫 How to reach me **gall.dev@proton.me**
 
-If you're not German, you might be wondering what my pseudonym means. "Hoffnung" is the German word for hope. This name comes from when I played a lot of Minecraft and it was a trend to give yourself names that contained actual German words.
+What can we do but hope for better times? We can work for better times ourselves. Help people, get involved in politics, but above all: learn programming, because it will inevitably improve your life.
